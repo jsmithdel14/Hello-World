@@ -4,7 +4,7 @@ This is the classic Hello World. The purpose was to demonstrate my development e
 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/5uz3hbcTZ9Y)
 
 
 
@@ -22,5 +22,5 @@ This is the classic Hello World. The purpose was to demonstrate my development e
 
 ![photo]()
 ```py
-print("Hello")
+print("Good Night Rexburg")
 ```
