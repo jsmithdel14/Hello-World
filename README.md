@@ -19,8 +19,6 @@ This is the classic Hello World. The purpose was to demonstrate my development e
 * [Git Website](https://git-scm.com/downloads)
 
 
-
-![photo]()
 ```py
 print("Good Night Rexburg")
 ```
